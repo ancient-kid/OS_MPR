@@ -338,4 +338,5 @@ int main()
 {
     initializeSystem();
     menu();
+    return 0;
 }
